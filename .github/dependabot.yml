@@ -1,0 +1,10 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "daily"
+      time: "13:37"
+      timezone: "Asia/Ho_Chi_Minh"
+    target-branch: "develop"
+    open-pull-requests-limit: -1
