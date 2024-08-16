@@ -4,7 +4,6 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-      time: "09:49"
+      time: "09:52"
       timezone: "Asia/Ho_Chi_Minh"
-    target-branch: "develop"
     open-pull-requests-limit: -1
